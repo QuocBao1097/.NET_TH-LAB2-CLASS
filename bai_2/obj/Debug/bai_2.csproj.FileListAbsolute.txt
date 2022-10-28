@@ -1,0 +1,8 @@
+D:\UIT\.NET\Thuc hanh\20521097-lab2\bai_2\bin\Debug\bai_2.exe.config
+D:\UIT\.NET\Thuc hanh\20521097-lab2\bai_2\bin\Debug\bai_2.exe
+D:\UIT\.NET\Thuc hanh\20521097-lab2\bai_2\bin\Debug\bai_2.pdb
+D:\UIT\.NET\Thuc hanh\20521097-lab2\bai_2\obj\Debug\bai_2.csproj.AssemblyReference.cache
+D:\UIT\.NET\Thuc hanh\20521097-lab2\bai_2\obj\Debug\bai_2.csproj.SuggestedBindingRedirects.cache
+D:\UIT\.NET\Thuc hanh\20521097-lab2\bai_2\obj\Debug\bai_2.csproj.CoreCompileInputs.cache
+D:\UIT\.NET\Thuc hanh\20521097-lab2\bai_2\obj\Debug\bai_2.exe
+D:\UIT\.NET\Thuc hanh\20521097-lab2\bai_2\obj\Debug\bai_2.pdb
